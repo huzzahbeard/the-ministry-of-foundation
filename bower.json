@@ -1,0 +1,10 @@
+{
+  "name": "foundation-gulp-app",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "foundation": "zurb/bower-foundation",
+    "slick.js": "~1.5.3",
+    "fontawesome": "~4.3.0"
+  }
+}
